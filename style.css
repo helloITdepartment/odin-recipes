@@ -1,0 +1,12 @@
+* {
+	background: gray;
+}
+
+.recipeTitle {
+	text-align: center;
+}
+
+.recipeImage {
+	display: block;
+	margin: 0px auto;
+}
